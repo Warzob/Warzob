@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Warzob
 - 👀 I’m interested in all project 
+- 🌱 I’m working on Photoshop, Discord
 - 🌱 I’m currently learning JS,html,Css 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
