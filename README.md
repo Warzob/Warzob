@@ -1,13 +1,17 @@
-- 👋 Hi, I’m @Warzob
-- 👀 I’m interested in all project 
-- 🌱 I’m working on Photoshop, Discord
-- 🌱 I’m currently learning JS,html,Css 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## [**🇫🇷 Version française / French Version (Cliquer pour voir)**](/README_FR.md)
 
-<!---
-Warzob/Warzob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Hi there, I'm [Warzob](https://github.com/Warzob) 👋
+
+
+# 📦 My Skills
+
+<br>
+<img src="https://skillicons.dev/icons?i=html,css,lua,&perline=7">
+<br>
+
+# ⚙️ My Projects
+
+### [MidnightMountains](https://github.com/Warzob/MidnightMountains)
+theme for *(vencord)
+
+
