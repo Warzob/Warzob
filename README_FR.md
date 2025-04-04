@@ -39,8 +39,9 @@
 
 ### 📈 Mes stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Warzob&show_icons=true&border_radius=20&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&icon_color=58a6ff&hide_border=true" alt="Warzob Stats"/><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Warzob&layout=compact&border_radius=20&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&hide_border=true" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Warzob&show_icons=true&border_radius=20&bg_color=1a1a1a&text_color=00ff00&title_color=ff00ff&icon_color=ffff00&hide_border=true&count_private=true" alt="Warzob Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Warzob&theme=dracula&hide_border=true&background=1a1a1a&stroke=ff00ff&ring=00ff00&fire=ffff00&currStreakLabel=ff00ff" alt="Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Warzob&layout=compact&border_radius=20&bg_color=1a1a1a&text_color=00ff00&title_color=ff00ff&hide_border=true" alt="Top Langs"/>
 </div>
 
 ---
