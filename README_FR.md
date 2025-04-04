@@ -1,12 +1,7 @@
 <div align="center">
+  <img src="https://c.tenor.com/yasksYy1XekAAAAC/tenor.gif" alt="Code vibes" width="3840" height="250"/>
   <h1>🌌 WARZOB 🌌</h1>
   <p><em>Développeur audacieux | Artisan du code | En perpétuelle évolution</em></p>
-  <!-- Option 1 : 800x447 -->
-  <h3>Option 1 : 800px</h3>
-  <img src="https://c.tenor.com/yasksYy1XekAAAAC/tenor.gif" alt="Code vibes" width="800" height="447"/>
-  <!-- Option 2 : 1000x558 -->
-  <h3>Option 2 : 1000px</h3>
-  <img src="https://c.tenor.com/yasksYy1XekAAAAC/tenor.gif" alt="Code vibes" width="1250" height="250"/>
 </div>
 
 ---
