@@ -1,49 +1,50 @@
 <div align="center">
-  <h1>✨ WARZOB ✨</h1>
-  <p><em>Développeur audacieux | Codeur créatif | Toujours en mouvement</em></p>
-  <img src="https://media.giphy.com/media/26FPJGjAwmeRADrDa/giphy.gif" alt="Code stylé" width="400"/>
+  <h1>🌌 WARZOB 🌌</h1>
+  <p><em>Développeur audacieux | Artisan du code | En perpétuelle évolution</em></p>
+  <img src="https://media.giphy.com/media/26FPJGjAwmeRADrDa/giphy.gif" alt="Code vibes" width="400"/>
 </div>
 
 ---
 
-### 👋 Qui suis-je ?
-- **Warzob** – Un nom, une vibe, un code qui marque.  
-- **Passion** : Transformer des idées en projets qui brillent.  
-- **En action** : Toujours un truc cool en cours de dev.  
+### 👋 Moi, c’est Warzob
+- **Identité** : Une âme créative derrière un pseudo qui claque.  
+- **Obsession** : Donner vie à des idées avec des lignes de code.  
+- **Work in progress** : Toujours un projet cool dans les tuyaux.  
 
 ---
 
-### 🛠️ Mes outils
+### 🛠️ Ma boîte à outils
 <p align="center">
-<br>
-<img src="https://skillicons.dev/icons?i=html,css,lua,&perline=7">
-<br>
+  <br>
+  <img src="https://skillicons.dev/icons?i=html,css,lua,js,py&perline=5" alt="Skills"/>
+  <br>
 </p>
 
 ---
 
-### 🌟 Mes highlights
-- **[MidnightFlavor](https://github.com/Warzob/MidnightFlavor)** : Un truc qui vaut le détour.
-  >[Cyberpunk](https://github.com/Warzob/MidnightFlavor/blob/main/themes/cyberpunk.theme.css)
-  >[MidnightMountains - Bleu ](https://github.com/Warzob/MidnightFlavor/blob/main/themes/midnightmountain-blue.theme.css)
-  >[MidnightMountains - Rose ](https://github.com/Warzob/MidnightFlavor/blob/main/themes/midnightmountains-pink.theme.css)
-
-- **[Projet 2](#)** : Simple, efficace, stylé.  
-- **À venir** : Stay tuned, ça va envoyer !  
+### 🌟 Mes pépites
+- **[MidnightFlavor](https://github.com/Warzob/MidnightFlavor)** : Mon projet star, une explosion de style !  
+  > Thèmes inclus :  
+  > - [Cyberpunk](https://github.com/Warzob/MidnightFlavor/blob/main/themes/cyberpunk.theme.css) – Neon et futurisme.  
+  > - [MidnightMountains Bleu](https://github.com/Warzob/MidnightFlavor/blob/main/themes/midnightmountain-blue.theme.css) – Froid et mystique.  
+  > - [MidnightMountains Rose](https://github.com/Warzob/MidnightFlavor/blob/main/themes/midnightmountains-pink.theme.css) – Doux mais audacieux.  
+- **[Projet 2](#)** : Simple, propre, efficace.  
+- **À venir** : Spoiler alert – ça va déchirer !  
 
 ---
 
-### 📊 Mes stats
+### 📈 Mes stats
 <div align="center">
-  ![Warzob Github Stats](https://github-readme-stats.vercel.app/api?username=Warzob&show_icons=true&border_radius=20&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&icon_color=58a6ff&hide_border=true)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Warzob&layout=compact&border_radius=20&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&icon_color=58a6ff&hide_border=true)
+  <img src="https://github-readme-stats.vercel.app/api?username=Warzob&show_icons=true&border_radius=20&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&icon_color=58a6ff&hide_border=true" alt="Warzob Stats"/><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Warzob&layout=compact&border_radius=20&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&hide_border=true" alt="Top Langs"/>
 </div>
 
 ---
 
-### 📍 Me trouver 
-- **Discord** : Warzob#1234  
+### 📡 Où me capter
+- **Discord** : `Warzob#1234` – Viens causer code ou chill !  
+- **GitHub** : Tu y es déjà, explore mes repos !  
 
 <div align="center">
-  <p>💡 <em>"Le code, c’est l’art de faire parler les machines."</em> 💡</p>
+  <p>✨ <em>"Le code n’est pas juste une science, c’est une danse."</em> ✨</p>
 </div>
