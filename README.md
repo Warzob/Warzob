@@ -1,78 +1,60 @@
 ## [**🇫🇷 Version française / French Version (Cliquer pour voir)**](/README_FR.md)
 
-## Hi there, I'm [Warzob](https://github.com/Warzob) 👋
-
-
-# 📦 My Skills
-
-<br>
-<img src="https://skillicons.dev/icons?i=html,css,lua,&perline=7">
-<br>
-
-![Warzob Github Stats](https://github-readme-stats.vercel.app/api?username=Warzob&show_icons=true&border_radius=20&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&icon_color=58a6ff&hide_border=true)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Warzob&layout=compact&border_radius=20&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&icon_color=58a6ff&hide_border=true)
-
-
-# ⚙️ My Projects
-
-### [MidnightFlavor](https://github.com/Warzob/MidnightMountains)  theme for *(vencord)
-  > [cyberpunk](https://github.com/Warzob/MidnightFlavor/blob/main/themes/cyberpunk.theme.css)
-  > [MidnightMountains Blue](https://github.com/Warzob/MidnightFlavor/blob/main/themes/midnightmountain-blue.theme.css)
-  > [MidnightMountains pink](https://github.com/Warzob/MidnightFlavor/blob/main/themes/midnightmountains-pink.theme.css)
-
-
-
-
-
-
-
-
 <div align="center">
-  <h1>👋 Hey, je suis Warzob !</h1>
-  <p><em>Développeur passionné | Explorateur de code | Créateur de trucs cool</em></p>
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding GIF" width="300"/>
+  <img src="https://c.tenor.com/yasksYy1XekAAAAC/tenor.gif" alt="Code vibes" width="3840" height="250"/>
+  <h1>🌌 WARZOB 🌌</h1>
+  <p><em>Bold Developer | Code Crafts | Always Evolving</em></p>
 </div>
 
 ---
 
-### 🚀 À propos de moi
-- **Pseudo :** Warzob  
-- **Mission :** Coder des projets qui déchirent et partager mes découvertes  
-- **Fun fact :** Je transforme le café en lignes de code depuis [insérer année]  
-- **En ce moment :** Je bosse sur [ton projet actuel ou une idée vague si rien de précis]  
+- **Identity** : A creative soul behind a striking username.  
+- **Obsession** : Bringing ideas to life through lines of code.  
+- **Work in Progress** : Always cooking up something cool.  
 
 ---
 
-### 🛠️ Mes skills
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
+### 🛠️ My Toolkit
+<p align="center">
+  <br>
+  <img src="https://skillicons.dev/icons?i=html,css,lua,js,py&perline=5" alt="Skills"/>
+  <br>
 </p>
 
 ---
 
-### 🌟 Mes projets phares
-- **[Projet 1](#)** : Une brève description de ce que ça fait.  
-- **[Projet 2](#)** : Un truc cool que j’ai codé récemment.  
-- **[Projet 3](#)** : À venir, restez connectés !  
+  <img src="https://c.tenor.com/yasksYy1XekAAAAC/tenor.gif" alt="Code vibes" width="3840" height="250"/>
+  
+---
+
+### 🌟 My Gems
+- **[MidnightFlavor](https://github.com/Warzob/MidnightFlavor)** : My star project, a burst of style!  
+  > - [Cyberpunk](https://github.com/Warzob/MidnightFlavor/blob/main/themes/cyberpunk.theme.css) – Neon and futuristic.  
+  > - [MidnightMountains Blue](https://github.com/Warzob/MidnightFlavor/blob/main/themes/midnightmountain-blue.theme.css) – Cool and mystical.  
+  > - [MidnightMountains Pink](https://github.com/Warzob/MidnightFlavor/blob/main/themes/midnightmountains-pink.theme.css) – Soft yet bold.  
+
+- **[Project 2](#)** : Simple, clean, effective.  
+- **Coming Soon** : Spoiler alert – it’s gonna rock!  
 
 ---
 
-### 📊 Mes stats GitHub
+### 📈 My Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Warzob&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Warzob&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Warzob&show_icons=true&border_radius=20&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&icon_color=58a6ff&hide_border=true&count_private=true" alt="Warzob Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Warzob&theme=highcontrast&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9" alt="Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Warzob&layout=compact&border_radius=20&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&hide_border=true" alt="Top Langs"/>
 </div>
 
 ---
 
-### 📫 Me contacter
-- **Email :** [ton.email@exemple.com]  
-- **Twitter/X :** [@tonpseudo]  
-- **Discord :** Warzob#1234  
+---
+
+### 📡 Where to Reach Me
+- **Discord** : `Warzob#1234` – Come chat about code or just chill!  
+- **GitHub** : You’re already here, explore my repos!  
 
 <div align="center">
-  <p>✨ "Le code, c’est comme la magie : il faut juste trouver la bonne incantation." ✨</p>
+  <p>✨ <em>"Code isn’t just a science, it’s a dance."</em> ✨</p>
 </div>
+
+  <img src="https://c.tenor.com/yasksYy1XekAAAAC/tenor.gif" alt="Code vibes" width="3840" height="250"/>
