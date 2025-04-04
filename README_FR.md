@@ -24,10 +24,11 @@
 
 ### 🌟 Mes pépites
 - **[MidnightFlavor](https://github.com/Warzob/MidnightFlavor)** : Mon projet star, une explosion de style !  
-  > Thèmes inclus :  
   > - [Cyberpunk](https://github.com/Warzob/MidnightFlavor/blob/main/themes/cyberpunk.theme.css) – Neon et futurisme.  
   > - [MidnightMountains Bleu](https://github.com/Warzob/MidnightFlavor/blob/main/themes/midnightmountain-blue.theme.css) – Froid et mystique.  
   > - [MidnightMountains Rose](https://github.com/Warzob/MidnightFlavor/blob/main/themes/midnightmountains-pink.theme.css) – Doux mais audacieux.  
+
+
 - **[Projet 2](#)** : Simple, propre, efficace.  
 - **À venir** : Spoiler alert – ça va déchirer !  
 
