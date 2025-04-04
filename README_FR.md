@@ -24,7 +24,11 @@
 ---
 
 ### 🌟 Mes highlights
-- **[Projet 1](#)** : Un truc qui vaut le détour.  
+- **[MidnightFlavor](https://github.com/Warzob/MidnightFlavor)** : Un truc qui vaut le détour.
+  >[Cyberpunk](https://github.com/Warzob/MidnightFlavor/blob/main/themes/cyberpunk.theme.css)
+  >[MidnightMountains - Bleu ](https://github.com/Warzob/MidnightFlavor/blob/main/themes/midnightmountain-blue.theme.css)
+  >[MidnightMountains - Rose ](https://github.com/Warzob/MidnightFlavor/blob/main/themes/midnightmountains-pink.theme.css)
+
 - **[Projet 2](#)** : Simple, efficace, stylé.  
 - **À venir** : Stay tuned, ça va envoyer !  
 
@@ -38,9 +42,7 @@
 
 ---
 
-### 📍 Me trouver
-- **Email** : [warzob@coolmail.com]  
-- **Twitter/X** : [@WarzobCode]  
+### 📍 Me trouver 
 - **Discord** : Warzob#1234  
 
 <div align="center">
