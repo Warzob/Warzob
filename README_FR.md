@@ -11,7 +11,6 @@
 - **Work in progress** : Toujours un projet cool dans les tuyaux.  
 
 ---
-  <img src="https://c.tenor.com/yasksYy1XekAAAAC/tenor.gif" alt="Code vibes" width="3840" height="250"/>
 
 ### 🛠️ Ma boîte à outils
 <p align="center">
@@ -49,3 +48,5 @@
 <div align="center">
   <p>✨ <em>"Le code n’est pas juste une science, c’est une danse."</em> ✨</p>
 </div>
+
+  <img src="https://c.tenor.com/yasksYy1XekAAAAC/tenor.gif" alt="Code vibes" width="3840" height="250"/>
