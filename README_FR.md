@@ -11,6 +11,7 @@
 - **Work in progress** : Toujours un projet cool dans les tuyaux.  
 
 ---
+  <img src="https://c.tenor.com/yasksYy1XekAAAAC/tenor.gif" alt="Code vibes" width="3840" height="250"/>
 
 ### 🛠️ Ma boîte à outils
 <p align="center">
