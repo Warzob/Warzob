@@ -1,7 +1,7 @@
 <div align="center">
   <h1>🌌 WARZOB 🌌</h1>
   <p><em>Développeur audacieux | Artisan du code | En perpétuelle évolution</em></p>
-  <img src="https://media.giphy.com/media/26FPJGjAwmeRADrDa/giphy.gif" alt="Code vibes" width="400"/>
+  <img src="https://c.tenor.com/yasksYy1XekAAAAC/tenor.gif" alt="Code vibes" width="800"/>
 </div>
 
 ---
