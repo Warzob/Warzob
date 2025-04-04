@@ -20,7 +20,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,lua,js,py&perline=5" alt="Skills"/>
   <br>
 </p>
-
+</p>
 ---
 
   <img src="https://c.tenor.com/yasksYy1XekAAAAC/tenor.gif" alt="Code vibes" width="3840" height="250"/>
