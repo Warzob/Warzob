@@ -11,10 +11,11 @@
 
 # ⚙️ My Projects
 
-### [MidnightFlavor](https://github.com/Warzob/MidnightMountains)
+### [MidnightFlavor](https://github.com/Warzob/MidnightMountains)  theme for *(vencord)
   > [cyberpunk](https://github.com/Warzob/MidnightFlavor/blob/main/themes/cyberpunk.theme.css)
   > [MidnightMountains Blue](https://github.com/Warzob/MidnightFlavor/blob/main/themes/midnightmountain-blue.theme.css)
   > [MidnightMountains pink](https://github.com/Warzob/MidnightFlavor/blob/main/themes/midnightmountains-pink.theme.css)
-theme for *(vencord)
+
+
 
 
