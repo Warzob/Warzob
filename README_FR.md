@@ -39,10 +39,8 @@
 
 ---
 
-### 📫 Me contacter
-- **Email :** [ton.email@exemple.com]  
-- **Twitter/X :** [@tonpseudo]  
-- **Discord :** Warzob#1234  
+### 📫 Me contacter  
+- **Discord :** warzob_  
 
 <div align="center">
   <p>✨ "Le code, c’est comme la magie : il faut juste trouver la bonne incantation." ✨</p>
