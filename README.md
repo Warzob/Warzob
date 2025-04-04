@@ -54,8 +54,8 @@
 
 ---
 
-### 📡 Where to Reach Me
-- **Discord** : `Warzob#1234` – Come chat about code or just chill!  
+### 📡 Contact Me 
+- **Discord** : `warzob_` – Come chat about code or just chill!  
 - **GitHub** : You’re already here, explore my repos!  
 
 <div align="center">
