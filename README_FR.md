@@ -9,8 +9,8 @@
 ### 🚀 À propos de moi
 - **Pseudo :** Warzob  
 - **Mission :** Coder des projets qui déchirent et partager mes découvertes  
-- **Fun fact :** Je transforme le café en lignes de code depuis [insérer année]  
-- **En ce moment :** Je bosse sur [ton projet actuel ou une idée vague si rien de précis]  
+- **Fun fact :** Je transforme le café en lignes de code depuis [2025]  
+- **En ce moment :** Je bosse sur [Un projet discord]  
 
 ---
 
