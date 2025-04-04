@@ -6,7 +6,7 @@
   <img src="https://c.tenor.com/yasksYy1XekAAAAC/tenor.gif" alt="Code vibes" width="800" height="447"/>
   <!-- Option 2 : 1000x558 -->
   <h3>Option 2 : 1000px</h3>
-  <img src="https://c.tenor.com/yasksYy1XekAAAAC/tenor.gif" alt="Code vibes" width="1000" height="558"/>
+  <img src="https://c.tenor.com/yasksYy1XekAAAAC/tenor.gif" alt="Code vibes" width="1000" height="100"/>
 </div>
 
 ---
