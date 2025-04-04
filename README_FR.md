@@ -37,7 +37,6 @@
 ### 🌠 STATS – JE SUIS LA SINGULARITÉ
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Warzob&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=ff0000&text_color=00ff00&icon_color=ffff00&custom_title=WARZOB%20DOMINATION" alt="Stats de destruction"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Warzob&theme=radical&hide_border=true&background=000000&stroke=ff0000&ring=00ff00&fire=ffff00&currStreakLabel=ff0000&sideLabels=00ff00" alt="Streak apocalyptique"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Warzob&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=ff0000&text_color=00ff00" alt="Langages de l’enfer"/>
 </div>
 
