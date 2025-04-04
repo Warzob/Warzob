@@ -29,15 +29,18 @@
 ---
 
 ### 🌟 My Project :
-</p>
+<br>
 - **[MidnightFlavor](https://github.com/Warzob/MidnightFlavor)** : My star project, a burst of style!  
   > - [Cyberpunk](https://github.com/Warzob/MidnightFlavor/blob/main/themes/cyberpunk.theme.css) – Neon and futuristic.  
   > - [MidnightMountains Blue](https://github.com/Warzob/MidnightFlavor/blob/main/themes/midnightmountain-blue.theme.css) – Cool and mystical.  
   > - [MidnightMountains Pink](https://github.com/Warzob/MidnightFlavor/blob/main/themes/midnightmountains-pink.theme.css) – Soft yet bold.  
-</p>
+
+<br>
+
 - **[Project 2](#)** : Simple, clean, effective.  
-- **Coming Soon** : Spoiler alert – it’s gonna rock!  
-</p>
+
+<br>
+
 
 ---
 
