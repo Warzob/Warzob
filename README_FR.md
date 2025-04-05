@@ -15,7 +15,7 @@
 ---
 
 ### 🛠️ Ma boîte à outils
-  <h1>🛠️ Ma boîte à outils 🛠️</h1>
+  <h2>🛠️ Ma boîte à outils 🛠️</h2>
 
 <p align="center">
   <br>
