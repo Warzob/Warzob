@@ -17,7 +17,7 @@
 ### 🛠️ Ma boîte à outils
 <p align="center">
   <br>
-  <img src="https://skillicons.dev/icons?i=html,css,lua,js,py&perline=5" alt="Skills"/>
+  <img src="https://skillicons.dev/icons?i=html,css,lua,js,py,photoshop&perline=6" alt="Skills"/>
   <br>
 </p>
 
