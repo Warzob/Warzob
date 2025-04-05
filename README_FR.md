@@ -15,9 +15,7 @@
 ---
 
 <div class="centrer-texte">
-<h1>🌌 WARZOB 🌌</h1>
-
-  🛠️ Ma boîte à outils 🛠️
+  <h1>🛠️ Ma boîte à outils 🛠️</h1>
 </div>
    <p align="center">
                               🛠️ Ma boîte à outils 🛠️
