@@ -8,27 +8,25 @@
 
 ---
 
- - **Identité** : Une âme créative derrière un pseudo qui claque.  
- - **Obsession** : Donner vie à des idées avec des lignes de code.  
- - **Work in progress** : Toujours un projet cool dans les tuyaux.  
-  
+- **Identité** : Une âme créative derrière un pseudo qui claque.  
+- **Obsession** : Donner vie à des idées avec des lignes de code.  
+- **Work in progress** : Toujours un projet cool dans les tuyaux.  
+
 ---
 
-<div class="centrer-texte">
-  <h1>🛠️ Ma boîte à outils 🛠️</h1>
+<div align="center">
+  ### 🛠️ Ma boîte à outils 🛠️
 </div>
-   <p align="center">
-                              🛠️ Ma boîte à outils 🛠️
+<p align="center">
   <br>
-       <br>
   <img src="https://skillicons.dev/icons?i=html,css,lua,js,py,photoshop&perline=6" alt="Skills"/>
   <br>
 </p>
 
 ---
 
-  <img src="https://c.tenor.com/yasksYy1XekAAAAC/tenor.gif" alt="Code vibes" width="3840" height="250"/>
-  
+<img src="https://c.tenor.com/yasksYy1XekAAAAC/tenor.gif" alt="Code vibes" width="3840" height="250"/>
+
 ---
 
 ### 🌟 Mes pépites
@@ -37,9 +35,7 @@
   > - [MidnightMountains Bleu](https://github.com/Warzob/MidnightFlavor/blob/main/themes/midnightmountain-blue.theme.css) – Froid et mystique.  
   > - [MidnightMountains Rose](https://github.com/Warzob/MidnightFlavor/blob/main/themes/midnightmountains-pink.theme.css) – Doux mais audacieux.  
 
-
 - **[Portfolio](https://github.com/Warzob/Warzob/tree/main/Portfolio)** : Portfolio 
-
 
 - **À venir** : Spoiler alert – ça va déchirer !  
 
@@ -55,8 +51,6 @@
 
 ---
 
----
-
 ### 📡 Où me capter
 - **Discord** : `Warzob#1234` – Viens causer code ou chill !  
 - **GitHub** : Tu y es déjà, explore mes repos !  
@@ -65,4 +59,4 @@
   <p>✨ <em>"Le code n’est pas juste une science, c’est une danse."</em> ✨</p>
 </div>
 
-  <img src="https://c.tenor.com/yasksYy1XekAAAAC/tenor.gif" alt="Code vibes" width="3840" height="250"/>
+<img src="https://c.tenor.com/yasksYy1XekAAAAC/tenor.gif" alt="Code vibes" width="3840" height="250"/>
