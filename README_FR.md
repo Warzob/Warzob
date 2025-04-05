@@ -15,7 +15,7 @@
 ---
 
 <div align="center">
-  ### 🛠️ Ma boîte à outils 🛠️
+  <h3>🛠️ Ma boîte à outils 🛠️</h3>
 </div>
 <p align="center">
   <br>
@@ -50,10 +50,10 @@
 </div>
 
 ---
-<div align="center">
-  <p>📡 <em>" Où me capter"</em> 📡</p>
-</div>
 
+<div align="center">
+  <p>📡 <em>"Où me capter"</em> 📡</p>
+</div>
 
 - **Discord** : `Warzob#1234` – Viens causer code ou chill !  
 - **GitHub** : Tu y es déjà, explore mes repos !  
