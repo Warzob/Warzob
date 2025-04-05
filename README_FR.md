@@ -50,10 +50,10 @@
 </div>
 
 ---
-
 <div align="center">
-  <p>📡 <em>"Où me capter"</em> 📡</p>
+  <h3>📡 <em>"Où me capter"</em> 📡</h3>
 </div>
+
 
 - **Discord** : `Warzob#1234` – Viens causer code ou chill !  
 - **GitHub** : Tu y es déjà, explore mes repos !  
