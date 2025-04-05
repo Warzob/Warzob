@@ -14,8 +14,11 @@
   
 ---
 
+<div class="centrer-texte">
+  🛠️ Ma boîte à outils 🛠️
+</div>
    <p align="center">
-                                ### 🛠️ Ma boîte à outils 🛠️
+                              🛠️ Ma boîte à outils 🛠️
   <br>
        <br>
   <img src="https://skillicons.dev/icons?i=html,css,lua,js,py,photoshop&perline=6" alt="Skills"/>
