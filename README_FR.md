@@ -8,9 +8,9 @@
 
 ---
 
-- **Identité** : Une âme créative derrière un pseudo qui claque.  
-- **Obsession** : Donner vie à des idées avec des lignes de code.  
-- **Work in progress** : Toujours un projet cool dans les tuyaux.  
+  **Identité** : Une âme créative derrière un pseudo qui claque.  
+  **Obsession** : Donner vie à des idées avec des lignes de code.  
+  **Work in progress** : Toujours un projet cool dans les tuyaux.  
 
 ---
 
