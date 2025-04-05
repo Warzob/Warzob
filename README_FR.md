@@ -43,7 +43,7 @@
 
 
 <div align="center">
-  <h3>📈 <em>" Mes stats"</em> 📈</h3>
+  <h3>📈 Mes stats 📈</h3>
 </div>
 
 
