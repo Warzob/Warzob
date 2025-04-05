@@ -18,6 +18,7 @@
   <h2>🛠️ Ma boîte à outils 🛠️</h2>
 
 <p align="center">
+    <br>
     <h2>🛠️ Ma boîte à outils 🛠️</h2>
   <br>
   <img src="https://skillicons.dev/icons?i=html,css,lua,js,py,photoshop&perline=6" alt="Skills"/>
