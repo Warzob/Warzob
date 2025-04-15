@@ -60,7 +60,7 @@
 </div>
 
 
-- **Discord** : `Warzob#1234` – Viens causer code ou chill !  
+- **Discord** : `Warzob_` – Viens causer code ou chill !  
 - **GitHub** : Tu y es déjà, explore mes repos !  
 
 <div align="center">
