@@ -31,7 +31,8 @@
 
 ### 🌟 Mes pépites
 - **[MidnightFlavor](https://github.com/Warzob/MidnightFlavor)** : Mon projet star, une explosion de style !  
-  > - [Cyberpunk](https://github.com/Warzob/MidnightFlavor/blob/main/themes/cyberpunk.theme.css) – Neon et futurisme.  
+  > - [Cyberpunk](https://github.com/Warzob/MidnightFlavor/blob/main/themes/cyberpunk.theme.css) – Neon et futurisme.
+  > - [Matrix](https://raw.githubusercontent.com/Warzob/Matrix/refs/heads/main/matrix.theme.css) – theme Matrix animée  
   > - [MidnightMountains Bleu](https://github.com/Warzob/MidnightFlavor/blob/main/themes/midnightmountain-blue.theme.css) – Froid et mystique.  
   > - [MidnightMountains Rose](https://github.com/Warzob/MidnightFlavor/blob/main/themes/midnightmountains-pink.theme.css) – Doux mais audacieux.  
 
